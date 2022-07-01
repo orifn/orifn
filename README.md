@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Orif's github stats](https://github-readme-stats.vercel.app/api?username=orifn&show_icons=true&count_private=true)](https://github.com/orifn)
+[![Orif's github stats](https://github-readme-stats.vercel.app/api?username=orifn&hide=stats,contribs&show_icons=true&count_private=true)](https://github.com/orifn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orifn&layout=compact)](https://github.com/orifn)
 
 <!--
