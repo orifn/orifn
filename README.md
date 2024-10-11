@@ -17,6 +17,7 @@
 <a href="https://www.w3.org/standards/semanticweb/" title="Semantic Web"><img src="https://github.com/get-icon/geticon/raw/master/icons/semantic-web.svg" alt="Semantic Web" width="40px" height="40px"></a>
 <a href="https://www.w3.org/2001/sw/wiki/REST" title="REST"><img src="https://github.com/get-icon/geticon/raw/master/icons/rest.svg" alt="REST" width="40px" height="40px"></a>
 <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="https://github.com/get-icon/geticon/raw/master/icons/lighthouse.svg" alt="Lighthouse" width="40px" height="40px"></a>
+<a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a>
 <a href="https://www.apachefriends.org/" title="XAMPP"><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="XAMPP" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/developer/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
@@ -29,10 +30,8 @@
 <a href="https://swagger.io/" title="Swagger"><img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg" alt="Swagger" width="40px" height="40px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px"></a>
 <a href="https://www.json.org/" title="Json"><img src="https://github.com/get-icon/geticon/raw/master/icons/json.svg" alt="Json" width="40px" height="40px"></a>
-<a href="https://www.markdownguide.org/" title="Markdown"><img src="https://github.com/get-icon/geticon/raw/master/icons/markdown.svg" alt="Markdown" width="40px" height="40px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px"></a>
 <a href="https://jasmine.github.io/" title="Jasmine"><img src="https://github.com/get-icon/geticon/raw/master/icons/jasmine.svg" alt="Jasmine" width="40px" height="40px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px"></a>
 <a href="https://karma-runner.github.io/" title="Karma"><img src="https://github.com/get-icon/geticon/raw/master/icons/karma.svg" alt="Karma" width="40px" height="40px"></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="Intellij IDEA" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
